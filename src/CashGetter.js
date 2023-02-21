@@ -25,7 +25,7 @@ export const CashGetter = () => {
             stopSound(event);
           }}
         >
-          GET CASH
+          GET CASH money HoNeY
         </button>
       </div>
     </>
